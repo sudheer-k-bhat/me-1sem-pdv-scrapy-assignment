@@ -1,4 +1,4 @@
-# Student Admission Assignment
+# Scrapy Assignment
 ## Intro
 This is a Python Scrapy project to scrap some info from https://arxiv.org. It is submitted as part of 1st Sem coursework for M.E. in Big Data & Data Analytics @MSIS, MAHE, Manipal.
 
